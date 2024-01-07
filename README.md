@@ -1,2 +1,3 @@
 # first-repositry
 This is my first repository.....
+author:yash tomar
